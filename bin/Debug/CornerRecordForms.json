@@ -1,0 +1,23 @@
+{
+  "cr1": {
+    "CRCity_c": "UNINCORPORATED TERRITORY",
+    "Corner_Type_c": "Lot",
+    "Legal_Description_c": "LEGAL DESCRIPTION",
+    "Geolocation_Longitude_s": "-117.987346574742",
+    "Geolocation_Latitude_s": "33.737478940339"
+  },
+  "cr2": {
+    "CRCity_c": "UNINCORPORATED TERRITORY",
+    "Corner_Type_c": "Lot",
+    "Legal_Description_c": "LEGAL DESCRIPTION",
+    "Geolocation_Longitude_s": "-117.986853650694",
+    "Geolocation_Latitude_s": "33.7374822565875"
+  },
+  "cr3": {
+    "CRCity_c": "UNINCORPORATED TERRITORY",
+    "Corner_Type_c": "Lot",
+    "Legal_Description_c": "LEGAL DESCRIPTION",
+    "Geolocation_Longitude_s": "-117.986261406582",
+    "Geolocation_Latitude_s": "33.7374860211225"
+  }
+}

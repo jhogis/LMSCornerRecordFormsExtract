@@ -1,0 +1,20 @@
+{
+  "cr1": {
+    "Corner_Type_c": "Other",
+    "Geolocation_Longitude_s": -117.98734657474206,
+    "Geolocation_Latitude_s": 33.737478940338974,
+    "Full Description": "FD SURVEY MARK W/OCS WASHER IN AC FLUSH"
+  },
+  "cr2": {
+    "Corner_Type_c": "Other",
+    "Geolocation_Longitude_s": -117.9868536506936,
+    "Geolocation_Latitude_s": 33.737482256587541,
+    "Full Description": "FD SURVEY MARK & OCS WASHER IN AC FLUSH"
+  },
+  "cr3": {
+    "Corner_Type_c": "Other",
+    "Geolocation_Longitude_s": -117.98626140658233,
+    "Geolocation_Latitude_s": 33.737486021122542,
+    "Full Description": "FD SURVEY MARK & OCS WASHER IN AC FLUSH"
+  }
+}
